@@ -27,7 +27,7 @@ spec:
             memory: "4Gi"
             cpu: "2"
       imagePullSecrets:
-      - name: ghcr-registry-secret
+      - name: error-secret
 #------------------------------------------------------------------SERVICE---------------------------------------------------------------------------------------------
 ---
 apiVersion: v1
