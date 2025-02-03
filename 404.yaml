@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: testing-container
-        image: ghcr.io/saisairepo/404error:1.0
+        image: ghcr.io/saisairepo/404error:1.1
         ports:
         - containerPort: 9000
         resources:
